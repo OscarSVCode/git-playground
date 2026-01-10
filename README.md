@@ -1,6 +1,6 @@
 #Git Playground
 
-Conflict target: VALUE=charlie+bravo
+Conflict target: VALUE=delta
 
 This repository is used to learn Git step by step.
 This repo exists only for learning and experimentation
